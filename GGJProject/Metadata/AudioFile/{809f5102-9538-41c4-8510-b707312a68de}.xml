@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{809f5102-9538-41c4-8510-b707312a68de}">
+		<property name="color">
+			<value>Cyan</value>
+		</property>
+		<property name="assetPath">
+			<value>Leo Reaper Bounces/portal_destroyed.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.7306349206349205</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b8207c34-76ca-4246-befa-8083f564bbae}</destination>
+		</relationship>
+	</object>
+</objects>

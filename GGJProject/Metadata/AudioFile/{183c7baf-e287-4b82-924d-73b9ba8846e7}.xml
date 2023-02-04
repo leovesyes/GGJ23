@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{183c7baf-e287-4b82-924d-73b9ba8846e7}">
+		<property name="color">
+			<value>Blue</value>
+		</property>
+		<property name="assetPath">
+			<value>Leo Reaper Bounces/harmonica.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>6.6204308390022675</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b8207c34-76ca-4246-befa-8083f564bbae}</destination>
+		</relationship>
+	</object>
+</objects>
